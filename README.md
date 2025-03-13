@@ -13,6 +13,11 @@ A vibrant **Holi-themed Flutter app** that celebrates the festival of colors! Th
 
 ---
 
+
+https://github.com/user-attachments/assets/d0cf9d1a-01cf-4ee4-880c-2b9d1cae9477
+
+
+---
 ## Setup & Installation ⚙️
 
 To run this project locally, follow these steps:
